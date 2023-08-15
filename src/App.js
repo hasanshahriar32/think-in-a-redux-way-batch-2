@@ -33,3 +33,5 @@ export default function App() {
     </div>
   );
 }
+
+// Path: src\components\Counter.js
